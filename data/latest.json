@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-12 09:38 UTC",
+  "updated": "2026-10-13 00:52 UTC",
   "top": [
     {
       "name": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
-      "stars": 391737,
+      "stars": 391804,
       "lang": "TypeScript",
       "created": "2025-11-24"
     },
@@ -13,7 +13,7 @@
       "name": "deepseek-ai/deepseek-harness",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "desc": "DeepSeek Harness: Everything is a Plugin.",
-      "stars": 247909,
+      "stars": 248225,
       "lang": "TypeScript",
       "created": "2026-08-13"
     },
@@ -21,7 +21,7 @@
       "name": "multica-ai/andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "stars": 219041,
+      "stars": 219244,
       "lang": "-",
       "created": "2026-01-27"
     },
@@ -29,7 +29,7 @@
       "name": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "desc": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 207060,
+      "stars": 207150,
       "lang": "TypeScript",
       "created": "2019-06-22"
     },
@@ -37,7 +37,7 @@
       "name": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "desc": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-      "stars": 190655,
+      "stars": 190871,
       "lang": "TypeScript",
       "created": "2024-04-15"
     },
@@ -45,7 +45,7 @@
       "name": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "stars": 187529,
+      "stars": 187540,
       "lang": "Python",
       "created": "2023-03-16"
     },
@@ -53,7 +53,7 @@
       "name": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "desc": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "stars": 182826,
+      "stars": 182907,
       "lang": "Go",
       "created": "2023-06-26"
     },
@@ -61,7 +61,7 @@
       "name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 161427,
+      "stars": 161890,
       "lang": "JavaScript",
       "created": "2026-06-12"
     },
@@ -69,7 +69,7 @@
       "name": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "stars": 159260,
+      "stars": 159528,
       "lang": "Shell",
       "created": "2025-10-13"
     },
@@ -77,7 +77,7 @@
       "name": "Snailclimb/JavaGuide",
       "url": "https://github.com/Snailclimb/JavaGuide",
       "desc": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
-      "stars": 158958,
+      "stars": 158969,
       "lang": "JavaScript",
       "created": "2018-05-07"
     },
@@ -85,7 +85,7 @@
       "name": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
       "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-      "stars": 158223,
+      "stars": 158281,
       "lang": "TypeScript",
       "created": "2023-04-12"
     },
@@ -93,7 +93,7 @@
       "name": "langflow-ai/langflow",
       "url": "https://github.com/langflow-ai/langflow",
       "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-      "stars": 155528,
+      "stars": 155560,
       "lang": "Python",
       "created": "2023-02-08"
     },
@@ -101,7 +101,7 @@
       "name": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
       "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "stars": 154376,
+      "stars": 154999,
       "lang": "Python",
       "created": "2023-10-06"
     },
@@ -109,7 +109,7 @@
       "name": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
       "desc": "The agent engineering platform.",
-      "stars": 147666,
+      "stars": 147709,
       "lang": "Python",
       "created": "2022-10-17"
     },
@@ -117,7 +117,7 @@
       "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "desc": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "stars": 143951,
+      "stars": 143962,
       "lang": "-",
       "created": "2025-03-05"
     }
@@ -127,7 +127,7 @@
       "name": "deepseek-ai/deepseek-harness",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "desc": "DeepSeek Harness: Everything is a Plugin.",
-      "stars": 247909,
+      "stars": 248225,
       "lang": "TypeScript",
       "created": "2026-08-13"
     },
@@ -135,7 +135,7 @@
       "name": "guillaumemeyer/watermarks-remover",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "desc": "A privacy-first app that strips AI watermarks from content you own.",
-      "stars": 23893,
+      "stars": 23948,
       "lang": "Python",
       "created": "2026-08-11"
     },
@@ -143,7 +143,7 @@
       "name": "browser-use/jev-ultrafast",
       "url": "https://github.com/browser-use/jev-ultrafast",
       "desc": "Fastest and cheapest web agent",
-      "stars": 22680,
+      "stars": 22748,
       "lang": "Python",
       "created": "2026-09-16"
     },
@@ -151,7 +151,7 @@
       "name": "hypit-ai/hypit",
       "url": "https://github.com/hypit-ai/hypit",
       "desc": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
-      "stars": 21409,
+      "stars": 21591,
       "lang": "TypeScript",
       "created": "2026-07-29"
     },
@@ -159,7 +159,7 @@
       "name": "lexmount/moli",
       "url": "https://github.com/lexmount/moli",
       "desc": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
-      "stars": 16796,
+      "stars": 17232,
       "lang": "Rust",
       "created": "2026-08-10"
     },
@@ -167,31 +167,31 @@
       "name": "yc-software/qm",
       "url": "https://github.com/yc-software/qm",
       "desc": "Multiplayer agent harness for work.",
-      "stars": 15389,
+      "stars": 15398,
       "lang": "TypeScript",
       "created": "2026-07-29"
-    },
-    {
-      "name": "google/artemis",
-      "url": "https://github.com/google/artemis",
-      "desc": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark.",
-      "stars": 11398,
-      "lang": "Python",
-      "created": "2026-08-13"
     },
     {
       "name": "Vincentwei1021/video-shotcraft",
       "url": "https://github.com/Vincentwei1021/video-shotcraft",
       "desc": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
-      "stars": 11389,
+      "stars": 11513,
       "lang": "TypeScript",
       "created": "2026-07-19"
+    },
+    {
+      "name": "google/artemis",
+      "url": "https://github.com/google/artemis",
+      "desc": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark.",
+      "stars": 11434,
+      "lang": "Python",
+      "created": "2026-08-13"
     },
     {
       "name": "trycompai/crm",
       "url": "https://github.com/trycompai/crm",
       "desc": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
-      "stars": 11237,
+      "stars": 11254,
       "lang": "TypeScript",
       "created": "2026-07-31"
     },
@@ -199,7 +199,7 @@
       "name": "yetone/magpie",
       "url": "https://github.com/yetone/magpie",
       "desc": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-      "stars": 10009,
+      "stars": 10369,
       "lang": "Go",
       "created": "2026-09-23"
     }
