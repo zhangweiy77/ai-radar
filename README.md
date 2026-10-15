@@ -10,42 +10,42 @@
 ## 🗞 今日榜单
 
 <!-- DATA_START -->
-_数据更新于 2026-10-14 00:52 UTC（爬虫自动抓取）_
+_数据更新于 2026-10-15 00:52 UTC（爬虫自动抓取）_
 
 ### 🏆 总榜 · 最受关注的 AI 开源项目
 
 | 项目 | ⭐ Stars | 语言 | 一句话简介 |
 |---|---:|---|---|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 391,908 | TypeScript | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 248,970 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 219,498 | - | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar |
-| [n8n-io/n8n](https://github.com/n8n-io/n8n) | 207,269 | TypeScript | Fair-code workflow automation platform with native AI capabilities. Combine visu |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 191,219 | TypeScript | Supercharge your AI agents with data from the web and beyond. Building the libra |
-| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 187,562 | Python | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our |
-| [ollama/ollama](https://github.com/ollama/ollama) | 183,054 | Go | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and o |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 162,762 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 159,897 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit commun |
-| [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | 158,997 | JavaScript | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 |
-| [langgenius/dify](https://github.com/langgenius/dify) | 158,388 | TypeScript | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o |
-| [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 155,627 | Python | Langflow is a powerful tool for building and deploying AI-powered agents and wor |
-| [open-webui/open-webui](https://github.com/open-webui/open-webui) | 155,579 | Python | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
-| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 147,789 | Python | The agent engineering platform. |
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 144,010 | - | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 392,028 | TypeScript | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 249,682 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 219,821 | - | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | 207,402 | TypeScript | Fair-code workflow automation platform with native AI capabilities. Combine visu |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 191,587 | TypeScript | Supercharge your AI agents with data from the web and beyond. Building the libra |
+| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 187,579 | Python | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our |
+| [ollama/ollama](https://github.com/ollama/ollama) | 183,183 | Go | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and o |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 163,622 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 160,104 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit commun |
+| [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) | 159,024 | JavaScript | Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发 |
+| [langgenius/dify](https://github.com/langgenius/dify) | 158,492 | TypeScript | Build Agentic workflows, RAG pipelines, with rich AI model and tool support on o |
+| [open-webui/open-webui](https://github.com/open-webui/open-webui) | 155,702 | Python | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
+| [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 155,674 | Python | Langflow is a powerful tool for building and deploying AI-powered agents and wor |
+| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 147,836 | Python | The agent engineering platform. |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 144,032 | - | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni |
 
 ### 🌱 新星榜 · 近 90 天冒头的新项目
 
 | 项目 | ⭐ Stars | 语言 | 一句话简介 |
 |---|---:|---|---|
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 248,970 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
-| [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 24,020 | Python | A privacy-first app that strips AI watermarks from content you own. |
-| [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | 22,828 | Python | Fastest and cheapest web agent |
-| [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 21,961 | TypeScript | Clone any viral video with AI agents. Not just a script, the whole workflow: swa |
-| [lexmount/moli](https://github.com/lexmount/moli) | 17,958 | Rust | Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Ru |
-| [yc-software/qm](https://github.com/yc-software/qm) | 15,406 | TypeScript | Multiplayer agent harness for work. |
-| [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 11,741 | TypeScript | AI video skill for Claude Code & Codex — cinematic product videos with Remotion: |
-| [google/artemis](https://github.com/google/artemis) | 11,546 | Python | ARTEMIS turns natural-language instructions into reliable Android automation. It |
-| [yetone/magpie](https://github.com/yetone/magpie) | 11,532 | Go | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the |
-| [trycompai/crm](https://github.com/trycompai/crm) | 11,280 | TypeScript | Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM. |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 249,682 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
+| [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 24,100 | Python | A privacy-first app that strips AI watermarks from content you own. |
+| [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | 22,917 | Python | Fastest and cheapest web agent |
+| [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 22,247 | TypeScript | Clone any viral video with AI agents. Not just a script, the whole workflow: swa |
+| [lexmount/moli](https://github.com/lexmount/moli) | 18,392 | Rust | Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Ru |
+| [yc-software/qm](https://github.com/yc-software/qm) | 15,417 | TypeScript | Multiplayer agent harness for work. |
+| [yetone/magpie](https://github.com/yetone/magpie) | 12,721 | Go | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the |
+| [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 11,928 | TypeScript | AI video skill for Claude Code & Codex — cinematic product videos with Remotion: |
+| [google/artemis](https://github.com/google/artemis) | 11,703 | Python | ARTEMIS turns natural-language instructions into reliable Android automation. It |
+| [trycompai/crm](https://github.com/trycompai/crm) | 11,315 | TypeScript | Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM. |
 <!-- DATA_END -->
 
 ---
